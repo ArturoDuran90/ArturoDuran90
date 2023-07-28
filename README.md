@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, My name is Arturo Duran</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arturoduran90&label=Profile%20views&color=0e75b6&style=flat" alt="arturoduran90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arturoduran90" alt="arturoduran90" /></a> </p>
+<h3 align="center">I'm a Full Stack Web Developer with a passion in Front-End design.</h3>
 
 - 🌱 I’m currently learning more about **React.JS, Backend Technologies, Golang,etc.**
 
@@ -20,6 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturoduran90&show_icons=true&locale=en&layout=compact" alt="arturoduran90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturoduran90&show_icons=true&locale=en" alt="arturoduran90" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arturoduran90&" alt="arturoduran90" /></p>
 
