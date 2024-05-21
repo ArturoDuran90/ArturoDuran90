@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Arturo Duran</h1>
 <h3 align="center">I'm a Full Stack Web Developer with a passion in Front-End design.</h3>
 
-- 🌱 I’m currently learning more about **React.JS, Backend Technologies, different frameworks,etc.**
+- 🌱 I’m currently learning more about **React.JS, Backend Technologies, different frameworks,etc. as well as working on my own HomeLab using proxmox, trueNas, Docker, etc, and learning more about Linux and Command Line in general.**
 
 - 📫 How to reach me **arturdur33@gmail.com**
 
